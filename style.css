@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+
+* {
+    margin: 0px;
+    padding: 1px;
+}
+
+
+
+.banner {
+    background-color: lightcoral;
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 6vh;
+    
+}
+
+.banner a {
+    float: right;
+    text-decoration: none;
+    color: rgb(247, 242, 242);
+}
+
+.footer {
+    background-color:lightcoral;
+    height: 6vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer p {
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: smaller;
+}
+
+.footerlinks {
+    float: right;
+}
+
+
+.main {
+    background-image: url('images/bg2.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 90vh;
+}
+
+.maintext {
+    padding: 10vh;
+    top: 10%;
+    color: blanchedalmond;
+}
+
+.maintext a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    background-color: rgb(235, 126, 161);
+    color: white;
+    padding: 1em;
+    display: inline-block;
+}
+
+.maintext h1 {
+    color: rgb(250, 3, 102);
+}
+
+.maintext h1 span {
+    color: rgb(254, 154, 216);
+}
+
+
+.gallery {
+    background-color: lightgoldenrodyellow;
+    font-family: 'Cedarville Cursive', cursive;
+    height: 90vh;
+    color:hotpink;
+}
+
+.gallery h1 span {
+    color: black;
+}
+
+.pics {
+    text-align: center;
+}
